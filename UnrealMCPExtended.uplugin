@@ -17,8 +17,14 @@
 	"Modules": [
 		{
 			"Name": "UnrealMCPExtended",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ToolsetRegistry",
+			"Enabled": true
 		}
 	]
 }
