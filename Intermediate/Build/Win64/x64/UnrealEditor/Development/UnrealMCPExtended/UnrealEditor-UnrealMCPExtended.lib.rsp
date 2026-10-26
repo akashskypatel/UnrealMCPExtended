@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/experimental:deterministic
+/DEF
+/NAME:"UnrealEditor-UnrealMCPExtended.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/Projects/FactoryGame/Intermediate/Build/Win64/x64/FactoryGameEditor/Development/UnrealEd/SharedPCH.UnrealEd.Cpp20.h.obj"
+"D:/Projects/FactoryGame/Plugins/UnrealMCPExtended/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealMCPExtended/Module.UnrealMCPExtended.cpp.obj"
+"D:/Projects/FactoryGame/Plugins/UnrealMCPExtended/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealMCPExtended/UnrealMCPExtended.cpp.obj"
+/OUT:"D:/Projects/FactoryGame/Plugins/UnrealMCPExtended/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealMCPExtended/UnrealEditor-UnrealMCPExtended.lib"

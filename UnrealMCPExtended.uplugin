@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UnrealMCPExtended",
+	"Description": "Unreal MCP Extended",
+	"Category": "Other",
+	"CreatedBy": "Akash Patel",
+	"CreatedByURL": "https://github.com/akashskypatel",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "UnrealMCPExtended",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

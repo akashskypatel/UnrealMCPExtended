@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\projects\\factorygame\\plugins\\unrealmcpextended\\source\\unrealmcpextended\\private\\unrealmcpextended.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\projects\\factorygame\\intermediate\\build\\win64\\x64\\factorygameeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "d:\\projects\\factorygame\\plugins\\unrealmcpextended\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\unrealmcpextended\\definitions.unrealmcpextended.h",
+            "d:\\projects\\factorygame\\plugins\\unrealmcpextended\\source\\unrealmcpextended\\public\\unrealmcpextended.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
